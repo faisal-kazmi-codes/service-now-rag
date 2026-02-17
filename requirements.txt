@@ -2,3 +2,7 @@ requests
 fastapi
 uvicorn[standard]
 python-dotenv
+openai
+pinecone
+tiktoken
+beautifulsoup4
